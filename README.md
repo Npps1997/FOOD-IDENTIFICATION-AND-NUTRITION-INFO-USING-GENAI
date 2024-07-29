@@ -2,6 +2,8 @@
 
 This project uses a Vision Transformer (ViT) model to identify food items from images and provides nutritional information using the API NINJAS service.
 
+Deployed Link: https://huggingface.co/spaces/Npps/Food_Indentification_and_Nutrition_Info
+
 ## Features
 
 - **Food Identification:** Utilizes the Vision Transformer (ViT) model from the `transformers` library to classify food items from images.
